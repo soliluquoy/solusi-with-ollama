@@ -5,13 +5,6 @@ Solusi with Ollama is an open-source browser extension that provides a sidebar a
 
 Solusi with Ollama supports Chromium-based browsers like Chrome, Brave, and Edge, as well as Firefox.
 
-Checkout the Demo (v1.0.0):
-
-<div align="center">
-
-[![Solusi with Ollama Demo](https://img.youtube.com/vi/8VTjlLGXA4s/0.jpg)](https://www.youtube.com/watch?v=8VTjlLGXA4s)
-
-</div>
 
 ## Features
 
