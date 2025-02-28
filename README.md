@@ -27,8 +27,8 @@ want more features? Create an issue and let me know.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/solusi/page-assist.git
-cd page-assist
+git clone https://github.com/solusi/solusi-with-ollama.git
+cd solusi-with-ollama
 ```
 
 2. Install the dependencies
