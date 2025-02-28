@@ -14,7 +14,7 @@ Sidebar Copilot is a feature that allows you to selected text from any webpage d
 
 1. Select the text you want to summarize, rephrase, translate, or explain.
 
-2. Right-click on the selected text there will be a options with name `Solusi with Ollama - Web UI for Local AI Models` then select the option you want to use.
+2. Right-click on the selected text there will be a options with name `Solusi with Ollama` then select the option you want to use.
 
 
 ## How to update the prompts

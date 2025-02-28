@@ -1,6 +1,6 @@
 {
   "name": "pageassist",
-  "displayName": "Solusi with Ollama - Web UI for Local AI Models",
+  "displayName": "Solusi with Ollama",
   "version": "1.0.9",
   "description": "Use your locally running AI models to assist you in your web browsing.",
   "author": "solusi",

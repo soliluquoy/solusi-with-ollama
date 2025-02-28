@@ -54,7 +54,7 @@ export default defineConfig({
     version: "1.5.2",
     name:
       process.env.TARGET === "firefox"
-        ? "Solusi with Ollama - Web UI for Local AI Models"
+        ? "Solusi with Ollama"
         : "__MSG_extName__",
     description: "__MSG_extDescription__",
     default_locale: "en",
