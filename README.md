@@ -154,29 +154,7 @@ All the data is stored locally in the browser storage. You can view the source c
 
 You learn more about the privacy policy [here](PRIVACY.md).
 
-## Contributing
 
-Contributions are welcome. If you have any feature requests, bug reports, or questions, feel free to create an issue.
-
-## Support
-
-If you like the project and want to support it, you can buy me a coffee. It will help me to keep working on the project.
-
-<a href='https://ko-fi.com/M4M3EMCLL' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-or you can sponsor me on GitHub.
-
-## Blogs and Videos About Solusi with Ollama
-
-This are some of the blogs and videos about Solusi with Ollama. If you have written a blog or made a video about Solusi with Ollama, feel free to create a PR and add it here.
-
-- [OllamaをChromeAddonのSolusi with Ollamaで簡単操作](https://note.com/lucas_san/n/nf00d01a02c3a) by [LucasChatGPT](https://twitter.com/LucasChatGPT)
-
-- [This Chrome Extension Surprised Me](https://www.youtube.com/watch?v=IvLTlDy9G8c) by [Matt Williams](https://www.youtube.com/@technovangelist)
-
-- [Ollama With 1 Click](https://www.youtube.com/watch?v=61uN5jtj2wo) by [Yaron Been From EcomXFactor](https://www.youtube.com/@ecomxfactor-YaronBeen)
-
-- [Solusi with Ollama 介绍合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk2NDUxNDQ3Nw==&action=getalbum&album_id=3845692786608553984#wechat_redirect) by 百工智用公众号
 
 ## License
 
