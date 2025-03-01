@@ -90,49 +90,9 @@ bun dev
 
 This will start a development server and watch for changes in the source files. You can load the extension in your browser and test the changes.
 
-## Browser Support
-
-| Browser     | Sidebar | Chat With Webpage | Web UI |
-| ----------- | ------- | ----------------- | ------ |
-| Chrome      | ✅      | ✅                | ✅     |
-| Brave       | ✅      | ✅                | ✅     |
-| Firefox     | ✅      | ✅                | ✅     |
-| Vivaldi     | ✅      | ✅                | ✅     |
-| Edge        | ✅      | ✅                | ✅     |
-| LibreWolf   | ✅      | ✅                | ✅     |
-| Zen Browser | ✅      | ✅                | ✅     |
-| Opera       | ❌      | ❌                | ✅     |
-| Arc         | ❌      | ❌                | ✅     |
-
-## Local AI Provider
-
-- [Ollama](https://github.com/ollama/ollama)
-
-- Chrome AI (Gemini Nano)
-
-- OpenAI API Compatible endpoints (like LM Studio, llamafile etc.)
-
-## Roadmap
-
-- [x] Firefox Support
-- [x] More Local AI Providers
-- [ ] More Customization Options
-- [ ] Better UI/UX
-
-## Privacy
-
-Solusi with Ollama does not collect any personal data. The only time the extension communicates with the server is when you are using the share feature, which can be disabled from the settings.
-
-All the data is stored locally in the browser storage. You can view the source code and verify it yourself.
-
-You learn more about the privacy policy [here](PRIVACY.md).
-
 
 
 ## License
 
 MIT
 
-## Last but not least
-
-Made in [Alappuzha](https://en.wikipedia.org/wiki/Alappuzha) with ❤️
